@@ -8,6 +8,10 @@ A simple Excel model that calculates monthly interest, payoff order, and new bal
 - Lets you change your monthly budget to see different payoff speeds.
 - Uses conditional formatting for easy visual priority.
 
+## Quick Links
+- 📊 [View Dashboard Screenshot](./screenshot_dashboard.png)  
+- 📥 [Download Excel Model (.xlsx)](./Debt_Repayment_Model.xlsx)
+
 ## Files
 - `Debt_Repayment_Model.xlsx` — the full Excel model.
 - `screenshot_dashboard.png` — sample view of the dashboard.
